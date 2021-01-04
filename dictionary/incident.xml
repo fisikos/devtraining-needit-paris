@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" extends="task" label="Incident" max_length="40" name="incident" sizeclass="80" text_index="true" type="collection">
+        <element label="New Audio" max_length="40" name="x_58872_needit_u_audio_1" type="audio"/>
+        <element label="New Audio" max_length="40" name="x_58872_needit_u_audio_3" type="audio"/>
+        <element attributes="edge_encryption_enabled=true" label="New Calendar Date/Time" max_length="40" name="x_58872_needit_u_calendar_date_time_2" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="New Calendar Date/Time" max_length="40" name="x_58872_needit_u_calendar_date_time_4" type="calendar_date_time"/>
+    </element>
+</database>
